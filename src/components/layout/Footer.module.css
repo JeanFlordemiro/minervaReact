@@ -1,26 +1,24 @@
 .footer {
-  border-top-style: solid;
-  border-top-color: darkslategray;
-  color: darkslategray;
-  border-width: 1px;
-  padding-top: 1.5em;
+  color: white;
+  padding-top: 1.9em;
   padding-bottom: 1em;
   text-align: center;
+  background-color: orchid;
 }
 
 .social_list {
   display: flex;
   justify-content: center;
   list-style: none;
+  padding-bottom: 1.3em;
 }
 
 .social_list li {
-  padding-bottom: 1em;
   margin: 0 1em;
 }
 
 .social_list li:hover {
-  color: darkturquoise;
+  color: indigo;
 }
 
 .social_list svg {
@@ -29,10 +27,10 @@
 }
 
 .copy_right {
-  margin-top: 1em;
+  margin-top: 0.1em;
 }
 
 .copy_right span {
   font-weight: bold;
-  color: palevioletred;
+  color: indigo;
 }

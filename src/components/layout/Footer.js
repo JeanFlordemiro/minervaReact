@@ -16,8 +16,7 @@ function Footer() {
       </ul>
 
       <p className={styles.copy_right}>
-        <span>Minerva</span> &copy; 2022 todos os direitos reservados by
-        RECODE
+        <span>Minerva</span> &copy; 2022 todos os direitos reservados by RECODE
       </p>
     </footer>
   );
